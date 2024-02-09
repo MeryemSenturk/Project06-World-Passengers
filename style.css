@@ -7,8 +7,8 @@
 }
 
 body {
-  /* height: 800vh; */
-  background: linear-gradient(to bottom, purple, white, blue,);
+  height: auto;
+  background: linear-gradient(to bottom, purple, white, blue);
   padding-bottom: 2rem;
 }
 
