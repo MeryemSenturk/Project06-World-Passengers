@@ -1,4 +1,4 @@
-## World Passengers
+# World Passengers
 
 ![World Passengers Project](chrome-capture-2024-2-9-1.gif)
 
@@ -9,6 +9,6 @@ The Responsive Grid Sport News project is a demonstration of an attractive and u
 - HTML
 - CSS
 
-# Demo
+## Demo
 
 [World Passengers](https://meryemsenturk.github.io/World-Passengers/)
